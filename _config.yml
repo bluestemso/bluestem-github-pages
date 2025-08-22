@@ -2,14 +2,14 @@
 title: Bluestem
 subtitle: AI Automation and Augmentation
 email: taylor@bluestem.solutions
-description: Bluestem - AI Automation and Augmentation Solutions
+description: We build reliable, customized automation and augmentation solutions for you and your business.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Taylor Schaack
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: San Francisco
+state: CA
+zip_code: 94107
 country: United States of America
 phone: (716) 555-5555
 
@@ -22,7 +22,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/tschaack
+  GitHub: https://github.com/bluestemso
   GitLab:
   Google-Plus:
   Instagram:
@@ -40,5 +40,4 @@ sass:
 exclude:
 - "*.gemspec"
 - LICENSE.md
-- CONTRIBUTING.md
 - README.md 
