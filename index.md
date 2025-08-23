@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Bluestem builds reliable, customized automation and augmentation solutions for you and your business.
+Bluestem builds intelligent business process automation and AI augmentation solutions that transform how small and medium businesses operate. We combine cutting-edge technology with rock-solid reliability to make your team more productive, your processes more efficient, and your business more successful.
