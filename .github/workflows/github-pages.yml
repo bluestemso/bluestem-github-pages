@@ -31,7 +31,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Adjust to your site's Ruby version if needed
+          ruby-version: '3.2' # Adjust to your site's Ruby version if needed
           bundler-cache: true # Automatically runs 'bundle install'
           cache-version: 0 # Increment this to clear cache if you have issues
       - name: Setup Pages
