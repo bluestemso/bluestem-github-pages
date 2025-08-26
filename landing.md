@@ -4,6 +4,7 @@ layout: landing
 description: 'Transform your business with intelligent automation and AI augmentation solutions designed for reliability and growth.'
 image: assets/images/pic07.jpg
 nav-menu: true
+published: false
 ---
 
 <!-- Main -->

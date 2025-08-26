@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About Bluestem
-image: assets/images/pic01.jpg
+description: Who we are and how we work
+image: assets/images/pic03.jpg
 nav-menu: true
 ---
 

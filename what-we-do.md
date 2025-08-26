@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Our Services
+title: What we do
 description: Comprehensive business process automation and AI augmentation solutions
 image: assets/images/pic11.jpg
-nav-menu: true
+nav-menu: false
+published: false
 ---
 
 ## What We Do

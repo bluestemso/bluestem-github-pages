@@ -2,27 +2,27 @@
 title: Bluestem
 subtitle: Solutions
 email: taylor@bluestem.solutions
-description: We build reliable, customized automation and augmentation solutions for you and your business.
+description: We build reliable, customized automation and augmentation solutions for your business.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Taylor Schaack
-street_address: 1234 Somewhere Road
-city: San Francisco
-state: CA
-zip_code: 94107
-country: United States of America
-phone: (716) 555-5555
+author: Bluestem Solutions
+street_address: null
+city: null
+state: null
+zip_code: null
+country: null
+phone: null
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 2
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/bluestemso
+  GitHub:
   GitLab:
   Google-Plus:
   Instagram:

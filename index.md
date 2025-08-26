@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Bluestem'
+landing-title: 'Bluestem is here to help.'
 description: null
 image: null
 author: null
