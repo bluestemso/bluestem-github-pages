@@ -262,12 +262,12 @@ nav-menu: true
 	<p><strong>Let's discuss how Bluestem can transform your business operations and deliver similar results for your team.</strong></p>
 </div>
 
-<p>Contact us today to schedule a consultation and discover what's possible when process meets intelligence.</p>
+<p>Contact us today using the form below to schedule a consultation and discover what's possible when process meets intelligence.</p>
 
-<ul class="actions">
+<!-- <ul class="actions">
 	<li><a href="#" class="button special">Schedule a Consultation</a></li>
 	<li><a href="#" class="button">Learn More About Our Process</a></li>
-</ul>
+</ul> -->
 
 </div>
 </section>

@@ -101,10 +101,10 @@ nav-menu: true
 <h2 id="get-started">Ready to Get Started?</h2>
 <p>Let's discuss how intelligent automation can transform your business operations. Whether you're looking to streamline existing processes, integrate new tools, or build completely custom automation solutions, we're here to help you succeed.</p>
 
-<ul class="actions">
+<!-- <ul class="actions">
 	<li><a href="#" class="button special">Schedule a Consultation</a></li>
 	<li><a href="#" class="button">Learn More About Our Process</a></li>
-</ul>
+</ul> -->
 
 </div>
 </section>
