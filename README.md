@@ -27,7 +27,7 @@ bundle exec jekyll serve
 
 # Credits
 
-Original Forty theme by [HTML5 UP](https://html5up.net/) - Free for personal and commercial use under the CCA 3.0 license.
+Original Forty theme by [HTML5 UP](https://html5up.net/) - Free for personal and commercial use under the CCA 3.0 license.  GitHub here: (https://github.com/andrewbanchich/forty-jekyll-theme)
 
 Built with:
 - [Jekyll](https://jekyllrb.com/)
