@@ -2,7 +2,9 @@
 
 A modern, responsive website for Bluestem's AI automation and augmentation solutions.
 
-![Bluestem](assets/images/forty.jpg "Bluestem")
+
+Public URL:
+[bluestem.solutions](https://bluestem.solutions/)
 
 # About
 
@@ -29,8 +31,12 @@ bundle exec jekyll serve
 
 Original Forty theme by [HTML5 UP](https://html5up.net/) - Free for personal and commercial use under the CCA 3.0 license.  GitHub here: (https://github.com/andrewbanchich/forty-jekyll-theme)
 
+# Tech Stack
 Built with:
 - [Jekyll](https://jekyllrb.com/)
 - [Font Awesome](https://fontawesome.com/) for icons
 - [jQuery](https://jquery.com/) for interactive features
 - [Skel](https://skel.io/) for responsive framework
+- [Formspree](https://formspree.io/) for form submission handling
+- [Cloudflare](https://cloudflare.com) for domain registration and hosting
+

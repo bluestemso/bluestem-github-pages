@@ -4,6 +4,7 @@ title: About Bluestem
 description: Who we are and how we work
 image: assets/images/pic03.jpg
 nav-menu: true
+published: true
 ---
 
 <!-- Main -->

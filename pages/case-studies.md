@@ -4,6 +4,7 @@ title: Case Studies
 description: Real results from real businesses using Bluestem automation solutions
 image: assets/images/pic02.jpg
 nav-menu: true
+published: true
 ---
 
 <!-- Main -->
