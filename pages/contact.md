@@ -5,6 +5,7 @@ description: Get in touch to discuss how Bluestem can transform your business pr
 image: assets/images/pic02.jpg
 nav-menu: true
 published: false
+show_tile: false
 ---
 
 <!-- Main -->
@@ -14,19 +15,18 @@ published: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Ready to Transform Your Business?</h1>
+			<h1>Ready to Get Started?</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Let's Start the Conversation</h2>
-<p>Let's discuss how intelligent automation can make your team more productive and your business more successful. Whether you have a specific project in mind or just want to explore the possibilities, we're here to help.</p>
+<h2 id="content">Let's Talk</h2>
+<p>Ready to stop doing repetitive work? Let's discuss how automation can make your team more productive and your business more successful.</p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Get In Touch</h3>
-		<p><strong>Email:</strong> <a href="mailto:hello@bluestemsolutions.com">hello@bluestemsolutions.com</a></p>
-		<p><strong>Phone:</strong> <a href="tel:+1-555-0123">Schedule a call</a></p>
-		<p><strong>LinkedIn:</strong> <a href="https://linkedin.com/company/bluestem-solutions">Connect with us</a></p>
+		<p><strong>Email:</strong> <a href="mailto:taylor@bluestem.solutions">taylor@bluestem.solutions</a></p>
+		<p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/taylorschaack">Connect with Taylor</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>What Happens Next?</h3>
@@ -37,58 +37,28 @@ published: false
 <hr class="major" />
 
 <!-- Our Process -->
-<h2 id="process">Our Engagement Process</h2>
+<h2 id="process">How We Work</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Phase 1: Initial Consultation</h3>
+		<h3>1. Discovery</h3>
 		<p>We'll schedule a 30-minute call to understand your business, current processes, and automation goals. This helps us determine if we're the right fit for each other.</p>
-		<ul>
-			<li>Business overview and current challenges</li>
-			<li>Process pain points and bottlenecks</li>
-			<li>Automation goals and success metrics</li>
-			<li>Timeline and budget considerations</li>
-		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Phase 2: Process Discovery</h3>
+		<h3>2. Design</h3>
 		<p>If we decide to work together, we'll dive deeper into your operations to identify automation opportunities and design a solution that delivers real business value.</p>
-		<ul>
-			<li>Detailed process mapping and analysis</li>
-			<li>Technology stack assessment</li>
-			<li>Automation opportunity identification</li>
-			<li>Solution architecture planning</li>
-		</ul>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Phase 3: Solution Design</h3>
+		<h3>3. Build</h3>
 		<p>We'll present a detailed proposal outlining the automation solution, timeline, investment, and expected outcomes.</p>
-		<ul>
-			<li>Technical solution design</li>
-			<li>Implementation timeline</li>
-			<li>Investment and ROI analysis</li>
-			<li>Success metrics definition</li>
-		</ul>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Phase 4: Development & Deployment</h3>
+		<h3>4. Deploy</h3>
 		<p>Once approved, we'll build and test your automation solution, ensuring it works flawlessly in your environment before going live.</p>
-		<ul>
-			<li>Iterative development cycles</li>
-			<li>Comprehensive testing and validation</li>
-			<li>User training and documentation</li>
-			<li>Phased rollout and monitoring</li>
-		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Phase 5: Ongoing Partnership</h3>
+		<h3>5. Support</h3>
 		<p>We don't just deliver and disappear. We're here to ensure your automation continues to deliver value with ongoing support and optimization.</p>
-		<ul>
-			<li>Performance monitoring and optimization</li>
-			<li>Feature enhancements and updates</li>
-			<li>Scalability planning for growth</li>
-			<li>24/7 support and maintenance</li>
-		</ul>
 	</div>
 </div>
 
@@ -129,18 +99,18 @@ published: false
 <h2 id="differentiation">What Sets Us Apart</h2>
 
 <div class="box">
-	<p><strong>We're Not Just Developers—We're Business Process Experts</strong><br/>
-	While we're technically skilled, our real value comes from understanding how businesses actually work. We've seen the challenges, bottlenecks, and inefficiencies that plague small and medium businesses, and we know how to solve them.</p>
+	<p><strong>We're Business Process Experts, Not Just Developers</strong><br/>
+	We understand how small and medium businesses actually work. We've seen the challenges, bottlenecks, and inefficiencies that plague growing companies, and we know how to solve them.</p>
 </div>
 
 <div class="box">
-	<p><strong>We Build for Reliability, Not Just Features</strong><br/>
-	Many automation solutions look impressive in demos but fail in production. We prioritize reliability, error handling, and real-world performance over flashy features that don't work when it matters.</p>
+	<p><strong>We Build for Reliability</strong><br/>
+	Many automation solutions look impressive but fail in production. We prioritize reliability, error handling, and real-world performance over flashy features.</p>
 </div>
 
 <div class="box">
-	<p><strong>We're Responsive Because Your Business Can't Wait</strong><br/>
-	When you have questions or need support, we respond quickly. We understand that your business processes can't be put on hold while waiting for technical support.</p>
+	<p><strong>We're Responsive</strong><br/>
+	When you have questions or need support, we respond quickly. Your business processes can't wait for technical support.</p>
 </div>
 
 <!-- Ready to Get Started -->
@@ -152,8 +122,8 @@ published: false
 </div>
 
 <ul class="actions">
-	<li><a href="mailto:hello@bluestemsolutions.com" class="button special">Send Us an Email</a></li>
-	<li><a href="tel:+1-555-0123" class="button">Schedule a Call</a></li>
+	<li><a href="mailto:taylor@bluestem.solutions" class="button special">Send Us an Email</a></li>
+	<li><a href="https://linkedin.com/in/taylorschaack" class="button">Connect on LinkedIn</a></li>
 </ul>
 
 <p><em>Bluestem Solutions - Where Process Meets Intelligence</em></p>
