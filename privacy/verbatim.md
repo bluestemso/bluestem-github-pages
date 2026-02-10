@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Verbatim Privacy Policy
 description: Privacy Policy for Verbatim by Bluestem Solutions
 image: null
@@ -8,7 +8,6 @@ show_tile: false
 permalink: /privacy/verbatim
 ---
 
-# Privacy Policy
 Last updated: February 10, 2026
 
 This Privacy Policy explains how Bluestem Solutions ("we", "us", "our") handles personal information when you use the Verbatim mobile app and related services (the "Service"), including APIs hosted at `https://verbatim.bluestem.solutions`.

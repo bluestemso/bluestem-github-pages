@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Privacy Policies
 description: App-specific privacy policies for Bluestem Solutions
 image: null
@@ -7,8 +7,6 @@ nav-menu: false
 show_tile: false
 permalink: /privacy/
 ---
-
-# Privacy Policies
 
 This page contains app-specific privacy policies for Bluestem Solutions.
 

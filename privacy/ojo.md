@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Ojo Privacy Policy
 description: Privacy Policy for Ojo by Bluestem Solutions
 image: null
@@ -7,8 +7,6 @@ nav-menu: false
 show_tile: false
 permalink: /privacy/ojo
 ---
-
-# Ojo Privacy Policy
 
 **Last updated: February 10, 2026**
 
