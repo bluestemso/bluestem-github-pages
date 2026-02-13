@@ -3,18 +3,32 @@
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/f/mandydew" method="POST">
+				<p>
+					Use this form for business inquiries. We only use your details to respond to your message and follow up about that request.
+				</p>
 				<div class="field half first">
 					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
+					<input type="text" name="name" id="name" required />
 				</div>
 				<div class="field half">
 					<label for="email">Email</label>
-					<input type="email" name="email" id="email" />
+					<input type="email" name="email" id="email" required />
 				</div>
 				<div class="field">
 					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<textarea name="message" id="message" rows="6" required></textarea>
 				</div>
+				<div aria-hidden="true" style="position: absolute; left: -5000px;">
+					<label for="_gotcha">Do not fill out this field</label>
+					<input type="text" name="_gotcha" id="_gotcha" tabindex="-1" autocomplete="off" />
+				</div>
+				<div class="field">
+					<input type="checkbox" name="consent" id="consent" required />
+					<label for="consent">I consent to Bluestem Solutions using this information to respond to my inquiry. I understand this form is for inquiry-related emails only.</label>
+				</div>
+				<p>
+					By submitting this form, you agree to our <a href="{{ "privacy" | absolute_url }}">Privacy Policy</a>. We do not add contact-form submissions to marketing mailing lists.
+				</p>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
@@ -51,7 +65,7 @@
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
-				<li><a href="{{ "privacy" | absolute_url }}">Privacy Policies</a></li>
+				<li><a href="{{ "privacy" | absolute_url }}">Privacy Policy</a></li>
 			</ul>
 		</div>
 	</footer>
