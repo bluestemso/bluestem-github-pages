@@ -3,9 +3,6 @@
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/f/mandydew" method="POST">
-				<p>
-					Use this form for business inquiries. We only use your details to respond to your message and follow up about that request.
-				</p>
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" required />
@@ -24,11 +21,8 @@
 				</div>
 				<div class="field">
 					<input type="checkbox" name="consent" id="consent" required />
-					<label for="consent">I consent to Bluestem Solutions using this information to respond to my inquiry. I understand this form is for inquiry-related emails only.</label>
+					<label for="consent">I consent to Bluestem Solutions using this information to respond to my inquiry. I understand this form is for inquiry-related emails only and that contact-form submissions are not added to marketing lists. I have read the <a href="{{ "privacy" | absolute_url }}">Privacy Policy</a>.</label>
 				</div>
-				<p>
-					By submitting this form, you agree to our <a href="{{ "privacy" | absolute_url }}">Privacy Policy</a>. We do not add contact-form submissions to marketing mailing lists.
-				</p>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
